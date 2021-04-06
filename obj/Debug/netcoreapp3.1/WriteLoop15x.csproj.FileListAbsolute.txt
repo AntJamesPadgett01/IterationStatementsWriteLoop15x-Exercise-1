@@ -1,0 +1,13 @@
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.exe
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.deps.json
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.runtimeconfig.json
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.runtimeconfig.dev.json
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.dll
+C:\Users\antho\repos\WriteLoop15x\bin\Debug\netcoreapp3.1\WriteLoop15x.pdb
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.csprojAssemblyReference.cache
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.AssemblyInfoInputs.cache
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.AssemblyInfo.cs
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.dll
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.pdb
+C:\Users\antho\repos\WriteLoop15x\obj\Debug\netcoreapp3.1\WriteLoop15x.genruntimeconfig.cache
